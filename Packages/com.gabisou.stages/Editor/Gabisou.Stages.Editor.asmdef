@@ -1,0 +1,10 @@
+{
+    "name": "Gabisou.Stages.Editor",
+    "references": [
+      "Gabisou.Stages"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
